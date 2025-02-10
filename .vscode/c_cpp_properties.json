@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "Mac SFML2",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/opt/homebrew/include"
+      ],
+      "browse": {
+        "path": [
+          "${workspaceFolder}",
+          "/opt/homebrew/include"
+        ]
+      },
+      "compilerPath": "/usr/bin/clang++",
+      "cStandard": "c11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
